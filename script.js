@@ -1,8 +1,3 @@
-// Lecture: Clear Results
-
-/*******************************
-*********QUIZ CONTROLLER********
-*******************************/
 // 1
 var quizController = (function() {
 
